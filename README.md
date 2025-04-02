@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a **Data Analyst** with an interest in data a
 
 ## 📬 Let's Connect!
 [![Medium](https://img.shields.io/badge/Medium-%23212121.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gokcekirgin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokce-k%C4%B1rg%C4%B1n-93b1862b7/recent-activity/all/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gokcekirgin3591)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokcekirgin@gmail.com)
 
 
