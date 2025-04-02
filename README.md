@@ -16,16 +16,18 @@ Welcome to my GitHub profile! I am a **Data Analyst** with an interest in data a
 ---
 
 ## 🛠️ Tech Stack and Tools
-- **Programming**: ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python (![Pandas](https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg), ![NumPy](https://upload.wikimedia.org/wikipedia/commons/1/1e/NumPy_logo_2020.svg), ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg), ![Seaborn](https://upload.wikimedia.org/wikipedia/commons/e/e3/Seaborn_logo.svg)), ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d5/SQL_Logo.svg) SQL (PostgreSQL)
-- **Databases**: ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) PostgreSQL
-- **BI and Visualization**: ![Power BI](https://upload.wikimedia.org/wikipedia/commons/a/a0/Power_BI_Logo.svg) Power BI, ![Excel](https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_Excel_Logo_2013.svg) Excel (Pivot Tables, Power Query)
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL)
+- **Databases**: PostgreSQL
+- **BI and Visualization**: Power BI, Excel (Pivot Tables, Power Query)
+
 
 ---
 
 ## 📬 Let's Connect!
 [![Medium](https://img.shields.io/badge/Medium-%23212121.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gokcekirgin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokcekirgin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gokcekirgin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokce-k%C4%B1rg%C4%B1n-93b1862b7/recent-activity/all/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokcekirgin@gmail.com)
+
 
 ---
 
